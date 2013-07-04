@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+alias ll = 'ls -alrth'
 touch file1
 touch file2
 ll
